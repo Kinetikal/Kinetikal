@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/kinetik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinetik" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPB5GHL2DLs9EOkvx7s2f5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kinetik" height="30" width="40" /></a>
 </p>
