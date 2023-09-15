@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinetikal&label=Profile%20views&color=0e75b6&style=flat" alt="kinetikal" /> </p>
 
-- 🌱 I’m currently learning **Python, PySimpleGUI, Pandas**
+- 🌱 I’m currently learning **Python, PySimpleGUI, Pandas, Fron and Back-End development with JavaScript, SolidJS, Clojure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
