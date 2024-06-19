@@ -1,0 +1,77 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.cursorBlinking": "smooth",
+  "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+  "materialTheme.accent": "Orange",
+  "editor.largeFileOptimizations": false,
+  "mssql.connections": [],
+  "vscode-edge-devtools.mirrorEdits": true,
+  "files.autoSave": "afterDelay",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "jupyter.askForKernelRestart": false,
+  "security.workspace.trust.untrustedFiles": "open",
+"explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "update.showReleaseNotes": false,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "jupyter.interactiveWindow.creationMode": "perFile",
+  "workbench.startupEditor": "none",
+  "python.defaultInterpreterPath": "C:\\Python312\\python.exe",
+  "git.autofetch": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "redhat.telemetry.enabled": true,
+  "yaml.schemas": {
+    "file:///c%3A/Users/ZaricJ/.vscode/extensions/docsmsft.docs-yaml-1.0.0/dist/toc.schema.json": "/toc\\.yml/i"
+  },
+  "python.formatting.provider": "none",
+  "editor.linkedEditing": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "oneDarkPro.bold": true,
+  "settingsSync.ignoredExtensions": [
+    "icrawl.discord-vscode"
+  ], 
+  "git.confirmSync": false,
+  "python.analysis.autoFormatStrings": true,
+  "git.openRepositoryInParentFolders": "never",
+  "window.zoomLevel": 0.3,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.settings.applyToAllProfiles": [
+  ],
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.smoothScrolling": false,
+  "editor.fontWeight": "400",
+  "editor.minimap.enabled": false,
+  // Color Syntax Customization
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.tokenColorCustomizations":{
+    "[One Dark Pro Darker]": {
+      "textMateRules": [
+        {
+          "scope": "variable.parameter",
+          "settings": {
+            "foreground": "#6c7fe0",
+            "fontStyle": "bold"
+          }
+        },
+          {
+            "scope": "entity.name.function",
+            "settings": {
+              "foreground": "#61afef"
+            }
+          }
+      ]
+    }
+  },
+  "editor.mouseWheelZoom": true
+}
